@@ -1,3 +1,4 @@
 # nikolaysalinder.github.io
- My site.
+Visit me nikolaysalinder.ru !
 Test gh pages.
+
