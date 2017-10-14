@@ -1,0 +1,24 @@
+{
+  "name": "nikolaysalinder.ru",
+  "version": "1.0.0",
+  "description": "My own site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolaysalinder/nikolaysalinder.github.io.git"
+  },
+  "keywords": [
+    "gh",
+    "pages",
+    "site"
+  ],
+  "author": "\"nikolaysalinder\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikolaysalinder/nikolaysalinder.github.io/issues"
+  },
+  "homepage": "https://github.com/nikolaysalinder/nikolaysalinder.github.io#readme"
+}
