@@ -15,10 +15,10 @@
     "pages",
     "site"
   ],
-  "author": "\"nikolaysalinder\"",
+  "author": "nikolaysalinder",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nikolaysalinder/nikolaysalinder.github.io/issues"
   },
-  "homepage": "https://github.com/nikolaysalinder/nikolaysalinder.github.io#readme"
+  "homepage": "https://github.com/nikolaysalinder/nikolaysalinder.github.io/index.html"
 }
